@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11c9c1844809788d579578597e9f1fd5",
+    "revision": "385a709a8021fb412b8c1f819afceb17",
     "url": "/omdb-app/index.html"
   },
   {
-    "revision": "b68d9e61ef4bb32d0186",
+    "revision": "cc9e26e99c869f100a88",
     "url": "/omdb-app/static/css/2.9ca7a530.chunk.css"
   },
   {
-    "revision": "68da4eeb0dfd2e1d67f4",
+    "revision": "41d6b3a71378fcc18d7f",
     "url": "/omdb-app/static/css/main.fdbeaecc.chunk.css"
   },
   {
-    "revision": "b68d9e61ef4bb32d0186",
-    "url": "/omdb-app/static/js/2.edabe1f1.chunk.js"
+    "revision": "cc9e26e99c869f100a88",
+    "url": "/omdb-app/static/js/2.5a237c9d.chunk.js"
   },
   {
     "revision": "78ddf5a465591a03b9601ba2ddd63415",
-    "url": "/omdb-app/static/js/2.edabe1f1.chunk.js.LICENSE"
+    "url": "/omdb-app/static/js/2.5a237c9d.chunk.js.LICENSE"
   },
   {
-    "revision": "68da4eeb0dfd2e1d67f4",
-    "url": "/omdb-app/static/js/main.8ced8262.chunk.js"
+    "revision": "41d6b3a71378fcc18d7f",
+    "url": "/omdb-app/static/js/main.dc87953d.chunk.js"
   },
   {
     "revision": "389c6b176552cf199b33",
